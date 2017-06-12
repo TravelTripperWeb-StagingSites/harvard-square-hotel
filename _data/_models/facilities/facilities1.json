@@ -1,6 +1,6 @@
 {
-    "name": "The Spa",
-    "description":  "Have a nice relaxing time at the spa",
-    "order": 1,
-    "hidden": false
+  "name": "Dining",
+  "description": " <br />Satisfy your appetite at a coffee shop/cafÃ© serving guests of Harvard Square Hotel.",
+  "order": 1,
+  "hidden": false
 }
